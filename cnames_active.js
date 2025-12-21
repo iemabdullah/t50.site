@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "Tyoe_Doamin_Name": "t50.site.github.io",
+  "xxxxxxxxxxxxxxxxxxxx": "yyyyyyyyy",
   "Shop": "shopno1.netlify.app"
   
   /*
