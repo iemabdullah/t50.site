@@ -15,7 +15,7 @@
 var ns_active = {
   "engine262": ["ns1.he.net", "ns2.he.net", "ns3.he.net", "ns4.he.net", "ns5.he.net"],
   "mermaid": ["dns1.p04.nsone.net", "dns2.p04.nsone.net", "dns3.p04.nsone.net", "dns4.p04.nsone.net"],
-  "Type_Domain_Name": ["Type_NS_1", "Type_NS_2"]
+  "your doamin": ["Type_NS_1", "Type_NS_2"]
 }
 
 /*
