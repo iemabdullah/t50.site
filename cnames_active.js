@@ -43,6 +43,7 @@ var cnames_active = {
   "dev": "cgk1.cname.zeabur-dns.com"
   "mozahidul": "mozahidul.github.io",
   "menmylove": "menmylove.github.io"
+  "djdd": "aksos.vercel.app",
   "Shop": "shopnol.netlify.app",
 }
 
