@@ -38,8 +38,8 @@
  */
 
 var cnames_active = {
-  "radioplay": "radioplay.pages.dev"
   "Type_Domain_Name": "t50.site.github.io"
+  "radioplay": "radioplay.pages.dev"
   "cgi": "my-catalog-site.pages.dev"
   "dev": "cgk1.cname.zeabur-dns.com"
   "mozahidul": "mozahidul.github.io",
