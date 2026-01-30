@@ -38,7 +38,7 @@
  */
 
 var cnames_active = {
-  "Type_Domain_Name": "t50.site.github.io"
+  "hindi-movies": "t50.site"
   "radioplay": "radioplay.pages.dev"
   "cgi": "my-catalog-site.pages.dev"
   "dev": "cgk1.cname.zeabur-dns.com"
